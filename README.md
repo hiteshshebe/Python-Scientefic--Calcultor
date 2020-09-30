@@ -2,3 +2,4 @@
 
 
 changed apply.. now working
+ replace | with or will work fine
